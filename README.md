@@ -13,6 +13,8 @@
 - 📫 How to reach me **alaawahbaa13@gmail.com**
 
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=alaawahba13&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 **alaawahba13/alaawahba13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
