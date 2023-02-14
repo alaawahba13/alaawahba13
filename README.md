@@ -9,7 +9,7 @@
 <!--  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/> -->
 
 - 🌱 I’m currently learning Embedded Systems
-- 💬 Ask me about Embedded Systems Boards (STM32, ATMEGA, TVIAC123, Arduino ,NodeMcu..etc)
+- 💬 Ask me about Embedded Systems Boards (STM32, ATMEGA, TIVAC123, Arduino ,NodeMcu..etc)
 - 📫 How to reach me **alaawahbaa13@gmail.com**
 
 <!--
